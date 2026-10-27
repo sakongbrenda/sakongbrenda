@@ -3,11 +3,6 @@
 **Statistician | Quantitative and Computational Analyst | PhD Candidate in Statistics**
 
 I apply programmatic mathematical and statistical tools to applied research and policy in agriculture, nutrition, education and mental health. I am a  currently a Statistician / Data Scientist consultant  and a PhD candidate in Statistics at the University of Embu.
-
-📍 Nairobi, Kenya · 📧 sakongbrenda@gmail.com
-
----
-
 ### 🧮 Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
